@@ -49,8 +49,11 @@ input_folder/
 In crack_analysis.py, modify:
 
 python
+
 input_folder = r"your_input_folder_path"
+
 output_excel_path = r"your_output_path\crack_results.xlsx"
+
 
 
 3. Run the Script
