@@ -58,3 +58,6 @@ output_excel_path = r"your_output_path\crack_results.xlsx"
 bash
 python crack_analysis.py
 
+This project includes modified code from:
+DSE-skeleton-pruning (originlake), licensed under the MIT License.
+https://github.com/originlake/DSE-skeleton-pruning
