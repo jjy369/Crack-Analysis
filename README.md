@@ -43,6 +43,8 @@ input_folder/
 │── img001.png
 │── img002.png
 │── img003.png
+
+
 2. Configure Paths
 In crack_analysis.py, modify:
 
